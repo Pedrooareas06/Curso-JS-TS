@@ -1,0 +1,1 @@
+console.log('Pedro Henrique'); // Serve para debugar  , ou encontrar o valor de uma variavel  , identificar falhas no código
